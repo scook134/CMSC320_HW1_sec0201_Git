@@ -5,3 +5,8 @@ Answer: Git is an excellent way to collaborate with other teammates on projects 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to virtually any field because all fields require management and analysis of data, but a specific field could be finance. Finance requires the analysis of trends and the management of historical trends, so a lot of data must be handled to accurately draw new conclusions.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The difference between merging and rebasing comes when dealing with history- merge preserves the history while rebase rewrites the history. However, both commands look to achieve the same thing, which is adding changes from collective branches to one whole branch.
+

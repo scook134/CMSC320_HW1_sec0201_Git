@@ -1,0 +1,4 @@
+
+Q1: Why might we consider using Git?
+
+Answer: Git is an excellent way to collaborate with other teammates on projects without having overlapping code. It's easy to commit changes, merge branches and review the history of projects over past commits. Pushing to a git repo allows the user to always have their work saved and makes work in general more organized.

@@ -1,4 +1,7 @@
-
 Q1: Why might we consider using Git?
 
 Answer: Git is an excellent way to collaborate with other teammates on projects without having overlapping code. It's easy to commit changes, merge branches and review the history of projects over past commits. Pushing to a git repo allows the user to always have their work saved and makes work in general more organized.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to virtually any field because all fields require management and analysis of data, but a specific field could be finance. Finance requires the analysis of trends and the management of historical trends, so a lot of data must be handled to accurately draw new conclusions.

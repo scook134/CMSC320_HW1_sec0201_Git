@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between merging and rebasing comes when dealing with history- merge preserves the history while rebase rewrites the history. However, both commands look to achieve the same thing, which is adding changes from collective branches to one whole branch.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about machine learning and how it can be implemented in Python using data curated from the pandas library.
